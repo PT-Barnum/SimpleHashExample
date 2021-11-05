@@ -1,3 +1,6 @@
+// CREDIT: Professor Kauffman, University of Minnesota
+// Header provided for hashset project in CSCI 2021 Course
+
 // hashset.h: header for hashset problem
 #include <stdio.h>
 #ifndef HASHSET_H
